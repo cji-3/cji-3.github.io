@@ -1,0 +1,20 @@
+{
+	"說明":"記錄了版本和歌曲數量 還有各歌曲的名稱及其URL 用於由我(CJI)所製作的音遊中",
+	"version":"1.0.0.0",
+	"number of songs":5,
+	
+	"name":[
+		"大悲咒",
+		"World War Outerspace",
+		"c418-15",
+		"歡喜就好",
+		"Max Verstappen Song"
+	],
+	"URL":[
+		"https://cji-3.github.io/music/大悲咒.mp3",
+		"https://cji-3.github.io/music/ABC.mp3",
+		"https://cji-3.github.io/music/c418-15.mp3",
+		"https://cji-3.github.io/music/歡喜就好.mp3",
+		"https://cji-3.github.io/music/Do do do do Max Verstappen.mp3"
+	]
+}
