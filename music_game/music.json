@@ -1,7 +1,7 @@
 {
 	"說明":"記錄了版本和歌曲數量 還有各歌曲的名稱及其URL 用於由我(CJI)所製作的音遊中",
 	"版本":"0.3.3.0",
-	"音樂數量":6,
+	"音樂數量":7,
 	
 	"name":[
 		"大悲咒",
@@ -9,7 +9,8 @@
 		"歡喜就好",
 		"Max Verstappen Song",
 		"c418-15",
-		"World War Outerspace"
+		"World War Outerspace",
+		"跳樓機"
 	],
 	"URL":[
 		"https://cji-3.github.io/music_game/music/大悲咒.mp3",
@@ -17,7 +18,8 @@
 		"https://cji-3.github.io/music_game/music/歡喜就好.mp3",
 		"https://cji-3.github.io/music_game/music/Do do do do Max Verstappen.mp3",
 		"https://cji-3.github.io/music_game/music/c418-15.mp3",
-		"https://cji-3.github.io/music_game/music/ABC.mp3"
+		"https://cji-3.github.io/music_game/music/ABC.mp3",
+		"https://cji-3.github.io/music_game/music/跳樓機.mp3"
 	],
 	"high":[
 		36,
@@ -25,7 +27,9 @@
 		122,
 		45,
 		42,
-		22
+		22,
+		47
+		
 	],
 	"SVG":[
 		"https://cji-3.github.io/music_game/SVG/1.svg",
@@ -33,7 +37,8 @@
 		"https://cji-3.github.io/music_game/SVG/3.svg",
 		"https://cji-3.github.io/music_game/SVG/4.svg",
 		"https://cji-3.github.io/music_game/SVG/5.svg",
-		"https://cji-3.github.io/music_game/SVG/6.svg"
+		"https://cji-3.github.io/music_game/SVG/6.svg",
+		"https://cji-3.github.io/music_game/SVG/7.svg"
 	],
 	"介紹":[
 		"心情當機重開機、焦慮緊急降溫。念的時候你可能聽不太懂在說什麼，但重點不是翻譯，而是讓大腦從「我好煩」切換成「先冷靜一下」。",
@@ -41,7 +46,8 @@
 		"最愛陳雷了",
 		"do do do do max verstappen😍",
 		"C418為《Minecraft》製作的配樂曲目之一。情緒偏平靜但略帶孤獨有種「在無限世界中獨自探索」的感覺。",
-		"沒什麼:)"
+		"沒什麼:)",
+		"新歌"
 	],
 	"難度":[
 		[],
@@ -49,6 +55,7 @@
 		[],
 		[],
 		[],
-		[10]
+		[10],
+		[]
 	]
 }
